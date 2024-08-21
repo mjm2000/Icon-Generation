@@ -1,0 +1,14 @@
+{
+  "name": "icon_generation",
+  "version": "1.0.0",
+  "description": "Generate Android and Iphone icons from existing logos",
+  "main": "index.js",
+  "bin": {
+    "my-console-app": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
