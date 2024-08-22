@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/jimmy/icon_generation/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+API	api.js	/^const API = '5ee8f368-677e-4ade-a29f-91b67857b22e';$/;"	C
+FormData	api.js	/^const FormData = require('form-data');$/;"	C
+Image_to_Image	api.js	/^async function Image_to_Image(prompt,model,image) {$/;"	f
+api	console.js	/^const api = require('.\/api.js');$/;"	C
+author	package.json	/^  "author": "",$/;"	s
+axios	api.js	/^const axios = require('axios');$/;"	C
+bin	package.json	/^  "bin": {$/;"	o
+console	package.json	/^    "console": "console.js"$/;"	s	object:bin
+description	package.json	/^  "description": "Generate Android and Iphone icons from existing logos",$/;"	s
+fs	api.js	/^const fs = require('fs');$/;"	C
+license	package.json	/^  "license": "ISC"$/;"	s
+main	package.json	/^  "main": "console.js",$/;"	s
+name	package.json	/^  "name": "icon_generation",$/;"	s
+scripts	package.json	/^  "scripts": {$/;"	o
+start	package.json	/^    "start": "node console.js"$/;"	s	object:scripts
+version	package.json	/^  "version": "1.0.0",$/;"	s
